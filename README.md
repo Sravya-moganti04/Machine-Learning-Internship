@@ -1,7 +1,28 @@
-# house-price-prediction
-Predicting house prices using Linear Regression and Gradient Boosting Regressor
+# Home Price Prediction
 
-The tutorial and write up for the code can be found here 
-https://medium.com/towards-data-science/create-a-model-to-predict-house-prices-using-python-d34fe8fad88f
+## 📌 Description
+This project predicts house prices using machine learning techniques based on various housing features.
 
-Thank you
+## 📂 Files Included
+- `housesales.ipynb` – Jupyter notebook containing data analysis, model training, and prediction
+- `kc_house_data.csv` – Dataset used for house price prediction
+
+## 🧠 ML Workflow
+- Data Loading and Exploration
+- Data Preprocessing
+- Feature Selection
+- Train-Test Split
+- Linear Regression Model
+- Model Evaluation
+
+## ⚙️ How to Run
+1. Open the notebook:
+   ```bash
+   jupyter notebook housesales.ipynb
+2. Run all cells sequentially
+    🧰 Technologies Used
+       - Python
+       - Pandas
+       - NumPy
+       - Scikit-learn
+       - Matplotlib / Seaborn
